@@ -2,7 +2,7 @@
 This code can predict the transport of reactive contaminant in porous media, taking into account non-equilibrium, non-linear adsorption.
 function WR_NLNE_AllFigures_Master_v3(figList)
 % =========================================================================
-% WR_NLNE_AllFigures_Master_v3.m
+% WR_NLNE_AllFigures_Master_.m
 % -------------------------------------------------------------------------
 % One-file MATLAB code for the numerical figures in the revised manuscript.
 %
